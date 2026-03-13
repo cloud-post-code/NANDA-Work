@@ -1,0 +1,9 @@
+# Subfolders are separate git repos; do not track their contents
+chat-frontend/
+adapter/
+nanda-payments/
+mcp-index/
+nanda-agent/
+agentfacts-format/
+list-39/
+nanda-index-frontend/
