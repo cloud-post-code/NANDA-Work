@@ -1,0 +1,8 @@
+node_modules
+.env
+dist
+.DS_Store
+
+# Cursor IDE configuration (contains personal/temporary URLs)
+.cursor/
+.vscode/

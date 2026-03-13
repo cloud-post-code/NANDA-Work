@@ -1,9 +1,1 @@
-# Subfolders are separate git repos; do not track their contents
-chat-frontend/
-adapter/
-nanda-payments/
-mcp-index/
-nanda-agent/
-agentfacts-format/
-list-39/
-nanda-index-frontend/
+# Nanda Docs and all project folders are now tracked and pushed with the repo.
